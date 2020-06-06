@@ -1,0 +1,28 @@
+body {
+	background-color: pink
+}
+
+
+.container{
+	margin-top: 1.0em; 
+	background-color: white;
+	padding-bottom: 10px;
+	border-radius: 15px;
+}
+
+.element {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#delete {
+	display: inline;
+}
+
+.about {
+	font-size: 1.4rem;
+}
+
+.jumbotron {
+   background-color: white;
+   }
